@@ -50,11 +50,8 @@ Il gioco è implementato in **JavaScript** utilizzando **Node.js**. La logica de
    ```bash
    cd Gioco-di-Slot-Machine
    ```
-4. Installa le dipendenze : 
-   ```bash
-   npm install
-   ```
-5. Avvia il gioco : 
+
+4. Avvia il gioco : 
    ```bash
    node project.js
    ```
